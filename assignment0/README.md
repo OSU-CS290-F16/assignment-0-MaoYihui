@@ -3,7 +3,7 @@
 
 Name: Mao,Yihui
 
-ONID ID: 932-078-664
+ONID ID: maoyi
 
 Link to my CS 290 page: http://web.engr.oregonstate.edu/~maoyi/blog.html
 
